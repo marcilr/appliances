@@ -1,0 +1,6 @@
+appliances.txt
+Created Sun Aug 20 22:34:06 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Appliances
