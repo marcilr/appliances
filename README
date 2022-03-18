@@ -8,6 +8,9 @@ Filelist
 appliances.txt
   Appliances
 
+kenmore/
+  Kenmore appliances
+
 manifest
   Manifest for resync application
 
